@@ -14,10 +14,10 @@ test_ransac     % compares RANSAC and non-RANSAC mosaic
 
 ## Results
 
-### Input Images
+### Images
 
-![crop1](img/input/crop1.jpg)
-![crop2](img/input/crop2.jpg)
+|![crop1](img/input/crop1.jpg)|![crop2](img/input/crop2.jpg)|
+|Input image|Reference image|
 
 ## Credits
 
