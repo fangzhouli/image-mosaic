@@ -11,13 +11,13 @@ In order to reproduce our results, you can run the scripts in src directory,
 generate_mosaic % shows examples of mosaic
 test_ransac     % compares RANSAC and non-RANSAC mosaic
 ```
-in src directory.
 
 ## Results
 
 ### Input Images
 
-![]()
+![crop1](img/input/crop1.jpg)
+![crop2](img/input/crops.jpg)
 
 ## Credits
 
