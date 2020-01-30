@@ -14,11 +14,23 @@ test_ransac     % compares RANSAC and non-RANSAC mosaic
 
 ## Results
 
-### Images
+### Input Images
 
 |![crop1](img/input/crop1.jpg)|![crop2](img/input/crop2.jpg)|
-|---|---|
-|Input image|Reference image|
+|:---:|:---:|
+|Will-be-warped image|Reference image|
+
+### Transforming
+
+|![crop_warp](img/output/crop_warp.jpg)|![crop2](img/output/crop_merge.jpg)|
+|:---:|:---:|
+|Warped image|Merged image|
+
+### RANSAC
+
+|![crop_with](img/output/crop_with_ransac.jpg)|![crop2](img/output/crop_without_ransac.jpg)|
+|:---:|:---:|
+|RANSAC|Non-RANSAC|
 
 ## Credits
 
