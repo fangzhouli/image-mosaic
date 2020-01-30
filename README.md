@@ -28,7 +28,7 @@ test_ransac     % compares RANSAC and non-RANSAC mosaic
 
 ### RANSAC
 
-|![crop_with](img/output/crop_with_ransac.jpg)|![crop2](img/output/crop_without_ransac.jpg)|
+|![crop_with](img/output/crop_with_ransac.png)|![crop2](img/output/crop_without_ransac.png)|
 |:---:|:---:|
 |RANSAC|Non-RANSAC|
 
